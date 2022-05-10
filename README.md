@@ -1,6 +1,6 @@
 # sender
 
-A new Flutter project.
+A flutter project for sending whatsapp messages
 
 ## Getting Started
 
